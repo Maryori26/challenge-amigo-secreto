@@ -1,9 +1,9 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #4737a3;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
+    --color-button: #27469c;
+    --color-button-hover: #2b2929;
     --color-text: #444444;
     --color-white: #FFFFFF;
 }
@@ -64,6 +64,7 @@ body {
 .section-title {
     font-family: "Inter", serif;
     font-size: 36px;
+    font-style: italic;
     font-weight: 700;
     color: var(--color-primary);
     margin: 10px 0;
@@ -116,8 +117,8 @@ button {
 }
 
 .button-add {
-    background-color: var(--color-tertiary);
-    color: var(--color-text);
+    background-color: #27469c;
+    color: rgb(252, 246, 246);
     border-radius: 0 25px 25px 0;
 }
 
@@ -128,7 +129,7 @@ button {
 /* Listas */
 ul {
     list-style-type: none;
-    color: var(--color-text);
+    color: #2a2b6e;
     font-family: "Inter", sans-serif;
     font-size: 18px;
     margin: 20px 0;
@@ -136,8 +137,8 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
-    font-size: 22px;
+    color: #2a2b6e;
+    font-size: 26px;
     font-weight: bold;
     text-align: center;
 }
@@ -150,7 +151,7 @@ ul {
     padding: 10px 40px;
     color: var(--color-white);
     background-color: var(--color-button);
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .button-draw img {
