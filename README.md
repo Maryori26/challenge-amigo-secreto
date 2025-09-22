@@ -19,7 +19,7 @@ Para luego realizar un sorteo donde se selecciona aleatoriamente **tu amigo secr
 <img width="815" height="370" alt="image" src="https://github.com/user-attachments/assets/5278ca64-e4b9-412f-9110-296740fb0c19" />
 
 
-**3:**Luego cuando tengas todos los nombres que quieres, haz click en *Sortear Amigo*.
+**3:** Luego cuando tengas todos los nombres que quieres, haz click en *Sortear Amigo*.
 <img width="812" height="372" alt="imagen 2" src="https://github.com/user-attachments/assets/c74026d8-95e0-4ef3-8cfe-c04a64976fd6" />
 
 
