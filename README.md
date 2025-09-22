@@ -12,7 +12,9 @@ Para luego realizar un sorteo donde se selecciona aleatoriamente **tu amigo secr
 
 ## Pasos a Seguir:
 **1:** Abrir el archivo `index.html` en tu navegador.
-https://maryori26.github.io/challenge-amigo-secreto/
+## Página web
+
+[Ver la aplicación en línea](https://maryori26.github.io/challenge-amigo-secreto/)
 
 **2:** Escribir el nombre de tus amigos y hacer click en el botón *añadir*.
 <img width="815" height="370" alt="image" src="https://github.com/user-attachments/assets/5278ca64-e4b9-412f-9110-296740fb0c19" />
