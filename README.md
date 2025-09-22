@@ -12,7 +12,6 @@ Para luego realizar un sorteo donde se selecciona aleatoriamente **tu amigo secr
 
 ## Pasos a Seguir:
 **1:** Abrir el archivo `index.html` en tu navegador.
-## Página web
 
 [Amigo Secreto](https://maryori26.github.io/challenge-amigo-secreto/)
 
@@ -26,6 +25,9 @@ Para luego realizar un sorteo donde se selecciona aleatoriamente **tu amigo secr
 
 **4:** Se mostrara el resultado.
 <img width="1263" height="621" alt="imagen 3" src="https://github.com/user-attachments/assets/75b508c0-8e7f-411b-a1b6-b5bba85a9954" />
+
+## Autor:
+Robles Burgos Maryori
 
 
 
